@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Rachel Hartfelder, Bernice Lau, James Lamkin, John Ieng"
 editor: visual
 format: 
   html:
