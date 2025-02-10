@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Bernice, Rachel, James, John"
 editor: visual
 format: 
   html:
